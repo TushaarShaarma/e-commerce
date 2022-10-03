@@ -1,0 +1,84 @@
+.acciojob {
+  width: 116px;
+  left: 0px;
+  top: 13px;
+  font-family: 'Montserrat', sans-serif;;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 0.1px;
+  color: #252b42;
+  margin-left: 30px;
+}
+.navbarBrand {
+  line-height: 20px;
+  width: 10%;
+}
+.navbarItems {
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  width: 60%;
+  letter-spacing: 0.2px;
+}
+.NavbarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  line-height: 20px;
+  font-family: 'Montserrat', sans-serif;;
+
+  
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 15%;
+  
+}
+.menu img {
+  height: 12px;
+  width: 12px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.links {
+  text-decoration: none;
+  margin-right: 10px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  color: #737373;
+  margin-left: 15px;
+  
+}
+/* .menu p {
+  color: #23a6f0;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+} */
+.menu small{
+    color: #23a6f0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    margin-left: -6px;
+}
+.login{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #23A6F0;
+margin-left: -8px;
+text-decoration: none;
+}

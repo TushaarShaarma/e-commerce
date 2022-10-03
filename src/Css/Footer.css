@@ -1,0 +1,99 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* width: 100%; */
+  padding-left: 100px;
+  padding-right: 100px;
+  font-family: "Montserrat", sans-serif;
+}
+.inner-div {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.icons {
+  /* width: 50px; */
+  height: 50px;
+  width: 8%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 28px;
+}
+.icons img {
+  width: 23px;
+  height: 23px;
+}
+.icons h3 {
+  width: 40%;
+}
+
+.main h3 {
+  font-style: normal;
+  /* font-weight: 70000000; */
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.1px;
+  color: #252b42;
+}
+.main h5 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  color: #252b42;
+}
+.main p{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+
+}
+.main h6{
+    /* h6 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+
+}
+
+.main input{
+background: #F9F9F9;
+border: 1px solid #E6E6E6;
+border-radius: 5px;
+}
+
+.ip{
+    
+    
+}
+.btn{
+    
+
+
+}
+.btn-container{
+    display: flex;
+}

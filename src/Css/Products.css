@@ -1,0 +1,34 @@
+.main-box {
+  background: #ffffff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  margin-right: 100px;
+  width: 366px;
+height: 458px;
+/* left: 69px;
+top: 820px; */
+}
+.start-price {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.price {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  display: flex;
+  justify-content: center;
+}
+.button button {
+  width: 96%;
+  margin-bottom: 10px;
+}
+.mainimg img{
+    max-height: 280px;
+    width: 300px;
+}
